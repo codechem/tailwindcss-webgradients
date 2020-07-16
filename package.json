@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Tailwind CSS plugin that adds the gradients from https://webgradients.com as background gradients",
   "main": "src/index.js",
-  "scripts": {
-    "test": "jest src/",
-    "prepublishOnly": "npm test"
-  },
   "keywords": [
     "tailwind css",
     "tailwind",
@@ -28,8 +24,6 @@
     "src/**/*"
   ],
   "devDependencies": {
-    "jest": "^26.1.0",
-    "jest-matcher-css": "^1.1.0",
     "postcss": "^7.0.32",
     "prettier": "^2.0.5",
     "tailwindcss": "^1.5.1"
