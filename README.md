@@ -20,8 +20,8 @@ npm install tailwindcss-webgradients
 Visit [WebGradients](https://webgradients.com) to pick a gradient, then append its name (dash-cased) on `bg-webgradient-{gradient_name_dashed}`.
 
 ---
-
-The default variants are specified as
+The default specified variant is `responsive`.
+You can specify the variants like this:
 ```javascript
-variants: ['responsive', 'hover']
+webGradient: ['responsive', 'hover']
 ```

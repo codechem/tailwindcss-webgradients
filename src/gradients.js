@@ -268,11 +268,11 @@ module.exports = {
     backgroundImage: 'linear-gradient(to bottom, #7028e4 0%, #e5b2ca 100%)',
   },
   'aqua-splash': { backgroundBlendMode: 'normal', backgroundImage: 'linear-gradient(15deg, #13547a 0%, #80d0c7 100%)' },
-  // 'above-clouds': {
-  //   backgroundImage:
-  //     'linear-gradient(to right, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271%, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100%, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%)',
-  //   backgroundBlendMode: 'normal, lighten, soft-light',
-  // },
+  'above-clouds': {
+    backgroundImage:
+      'linear-gradient(to right, #BDBBBE 0%, #9D9EA3 100%), radial-gradient(88% 271% at 0 0, rgba(255, 255, 255, 0.25) 0%, rgba(254, 254, 254, 0.25) 1%, rgba(0, 0, 0, 0.25) 100%), radial-gradient(50% 100% at 0 0, rgba(255, 255, 255, 0.30) 0%, rgba(0, 0, 0, 0.30) 100%)',
+    backgroundBlendMode: 'normal, lighten, soft-light',
+  },
   'spiky-naga': {
     backgroundBlendMode: 'normal',
     backgroundImage:
@@ -422,7 +422,7 @@ module.exports = {
   },
   'elegance': {
     backgroundImage:
-      'radial-gradient(73% 147%, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146%, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%)',
+      'radial-gradient(73% 147% at 0 0, #EADFDF 59%, #ECE2DF 100%), radial-gradient(91% 146% at 0 0, rgba(255,255,255,0.50) 47%, rgba(0,0,0,0.50) 100%)',
     backgroundBlendMode: 'screen',
   },
   'child-care': { backgroundBlendMode: 'normal', backgroundImage: 'linear-gradient(-20deg, #f794a4 0%, #fdd6bd 100%)' },
