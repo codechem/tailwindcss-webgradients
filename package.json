@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-webgradients",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tailwind CSS plugin that adds the gradients from https://webgradients.com as background gradients",
   "main": "src/index.js",
   "keywords": [
