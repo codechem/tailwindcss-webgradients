@@ -13,10 +13,10 @@
     "webgradients",
     "gradients"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/codechem/tailwindcss-webgradients",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/codechem/tailwindcss-webgradients"
   },
   "author": {
     "name": "Lazar Nikolov",

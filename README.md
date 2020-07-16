@@ -1,8 +1,6 @@
 # Webgradients Plugin for Tailwind CSS
 This Tailwind CSS plugin is a collection of [WebGradient](https://webgradients.com)'s gradients. It adds background utilities with the gradients.
 
----
-
 ## Installation
 
 ```bash
